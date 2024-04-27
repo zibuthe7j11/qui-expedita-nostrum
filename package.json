@@ -1,18 +1,58 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/qui-expedita-nostrum",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "typed array",
+    "gradients css3",
+    "encryption",
+    "japanese",
+    "rm",
+    "web",
+    "less.js",
+    "mocha",
+    "es-shims",
+    "create",
+    "random",
+    "async",
+    "es2016",
+    "pipe",
+    "speed",
+    "JSON",
+    "optimizer",
+    "Array.prototype.includes",
+    "json-schema-validator",
+    "curl",
+    "look",
+    "typesafe",
+    "[[Prototype]]",
+    "callbound",
+    "streams2",
+    "folder",
+    "warning",
+    "crypt",
+    "extra",
+    "efficient",
+    "postcss-plugin",
+    "harmony",
+    "es-shim API",
+    "utility"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/qui-expedita-nostrum.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/qui-expedita-nostrum/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/qui-expedita-nostrum/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
